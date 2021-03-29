@@ -20,7 +20,7 @@ pandas==1.0.1
 Pillow==7.0.0
 pydot==1.4.1
 pydub==0.23.1
-Pygments==2.6.1
+Pygments==2.7.4
 requests==2.23.0
 resampy==0.2.2
 rsa==4.0
