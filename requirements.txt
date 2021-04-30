@@ -23,7 +23,7 @@ pydub==0.23.1
 Pygments==2.6.1
 requests==2.23.0
 resampy==0.2.2
-rsa==4.0
+rsa==4.7
 scikit-learn==0.22.2.post1
 scipy==1.4.1
 seaborn==0.10.0
